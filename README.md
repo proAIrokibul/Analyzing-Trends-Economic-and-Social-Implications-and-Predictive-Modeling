@@ -1,4 +1,4 @@
-# Analyzing Trends, Economic and Social Implications, and Predictive Modeling of Coastal Waste Risk
+# Analyzing Trends, Economic and Social Implications, and Predictive Modeling of Plastic Waste Around The World
 
 ## Objective
 The objective of this project is to analyze the trends, economic and social implications, and perform predictive modeling on plastic waste data. The key aim is to predict the level of **Coastal Waste Risk** using various machine learning models. The dataset includes crucial factors such as **total plastic waste**, **main sources of waste**, **recycling rate**, **per capita waste**, and **coastal waste risk**, which have been evaluated to understand the relationship between waste generation and the impact on coastal areas.
